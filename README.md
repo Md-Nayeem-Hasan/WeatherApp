@@ -1,13 +1,13 @@
 ## Kotlin Weather App - Project Setup Instructions
 
 
-### ✅ Prerequisites
+### Prerequisites
 
 - Android Studio (Arctic Fox or later)
 - Kotlin 1.5 or later
 - A free API key from [OpenWeatherMap](https://openweathermap.org/api)
 
-### 🛠️ How to Set Up
+###  How to Set Up
 
 1. **Clone the Repository**
    ```bash
