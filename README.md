@@ -1,4 +1,4 @@
-## 🌦️ Kotlin Weather App - Project Setup Instructions
+## Kotlin Weather App - Project Setup Instructions
 
 
 ### ✅ Prerequisites
